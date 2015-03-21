@@ -1,0 +1,13 @@
+Title	Sales	Days
+Xbox 360, Grand Theft Auto 5:	14.49	2856
+Xbox 360, Halo 3:	14.5	672
+Xbox 360, Minecraft 360:	13	2360
+Xbox 360, Black Ops:	12	1813
+Wii, Mario Kart Wii:	35.53	525
+Wii, New Super Mario Bros.:	28.65	1092
+Wii, Super Mario Galaxy:	12.22	358
+Wii, Smash Brothers Brawl:	12.14	476
+Playstation 3, Gran Turismo 5:	10.66	1468
+Playstation 3, the Last of Us:	7	2401
+Playstation 3, Metal Gear Solid 4:	6	573
+Playstation 3, Modern Warfare 2:	4.8	1089

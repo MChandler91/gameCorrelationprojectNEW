@@ -1,0 +1,13 @@
+Titles	Sales	Days
+Xbox One, Titanfall:	2	110
+Xbox One, Master Chief Collection:	1.96	355
+Xbox One, Dragon Age Inquisition:	0.64	362
+Xbox One, Dead Rising 3:	1.1	 0
+Wii U, Super Smash Brothers Wii U:	3.39	740
+Wii U, Mario Kart 8:	4.77	559
+Wii U, New Super Luigi:	1.76	281
+Wii U, Hyrule Warriors:	1	678
+Playstation 4, the Order 1886:	0.56	463
+Playstation 4, Killzone Shadowfall:	2.1	0
+Playstation 4, Infamous: Second Son:	1	127
+Playstation 4, Advanced Warfare:	6.25	355

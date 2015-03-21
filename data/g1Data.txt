@@ -1,0 +1,9 @@
+Title	Sales	Days
+Nintendo 64, Super Mario 64:	11.62	0
+Nintendo 64, GoldEye 007:	8	330
+Nintendo 64, Ocarina of Time:	7.6	785
+Nintendo 64, Super Smash Brothers:	5	939
+Playstation 1, Gran Turismo:	10.85	976
+Playstation 1, Final Fantasy VII:	9.72	725
+Playstation 1, Resident Evil:	9	203
+Playstation 1, Tekken 3:	8.5	1099

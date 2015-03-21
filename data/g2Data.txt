@@ -1,0 +1,12 @@
+Title	Sales	Days
+Original Xbox, Halo 2:	8	1090
+Original Xbox, Fable:	3	1034
+Original Xbox, Project Gotham Racing:	2.5	0
+Gamecube, Super Smash Brothers Melee:	7.09	15
+Gamecube, Mario Kart Double Dash:	7	729
+Gamecube, Super Mario Sunshine:	5.9	281
+Gamecube, Wind Waker:	3.07	491
+Playstation 2, GTA: San Andreas:	17.33	1697
+Playstation 2, Gran Turismo 3 A-Spec:	14.89	492
+Playstation 2, Metal Gear Solid 2:	7	627
+Playstation 2, Final Fantasy X:	6.6	653
